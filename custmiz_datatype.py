@@ -23,7 +23,7 @@ class SuperHero:
 iron=SuperHero("tonny","fly","red","Avangers")
 thor=SuperHero("thor","hammer","grey","Avangers")
 spiderman=SuperHero("dany","spider","red")            
-print(iron)        
+print(iron)
         
     
     
