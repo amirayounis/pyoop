@@ -1,0 +1,10 @@
+1-class --->objects
+int------->x=5,y=10
+2- __init__ -->creat objects
+2-properties/(optional)
+3-methods -->member(self)&class method
+4-_name--->setter&getter-->decorator
+
+
+animal --->cat,dog
+name,color  eat ,sound
